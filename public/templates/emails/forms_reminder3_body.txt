@@ -1,0 +1,16 @@
+Dear {{greeting_name}},
+
+This is the final reminder to complete and submit the hotel reservation form. Please note the following important points:
+
+Reservation Confirmation: Without the completed form, we cannot confirm your reservation. Consequently, this may lead to changes in room availability or pricing.
+
+Flexibility and Refundability: The reservation remains completely flexible and refundable up to 30 days before the check-in date. You may secure your accommodation now, and if any changes arise, they can be accommodated without issue.
+
+Room Reservation Form: {{forms_link}}
+
+Please complete the form at your earliest convenience to secure appropriate accommodation for your stay during your upcoming conference.
+
+Should you have any questions or require assistance, please do not hesitate to contact us.
+
+Warm regards,  
+Reservation Team

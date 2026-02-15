@@ -1,0 +1,21 @@
+Dear {{greeting_name}},
+
+Thank you for providing the necessary information for your accommodation reservation for the upcoming event.
+
+Attached to this email, you will find a PDF document with all relevant details regarding your initial room reservation. Kindly review the information carefully, and if all the details are accurate, proceed to confirm your reservation by completing the payment via bank transfer to the following account:
+
+Bank Details:
+Account Name: Emerging Travel
+Swift Code: CITIGB2L
+IBAN: GB38CITI18500817616864
+
+Kindly ensure that you include the invoice number {{invoice}} when making the payment, so we can promptly identify and allocate it.
+
+Upon completing the transfer, please ensure that a confirmation of the payment is sent to us. Once the payment is confirmed, you can expect to receive your voucher and invoice within 24 hours. These documents will serve as confirmation of your reservation and provide further details for your reference.
+
+Kindly note that all reservations are fully refundable and flexible until 30 days before the check-in date.
+
+Should you encounter any issues or have specific requests regarding your reservation, please do not hesitate to contact us.
+
+Warm Regards,
+Reservation Team

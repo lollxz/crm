@@ -1,0 +1,10 @@
+Dear {{greeting_name}},
+
+This is a gentle reminder to complete and submit the hotel reservation form to finalize and secure your accommodation for the upcoming conference.
+
+Room Reservation Form: {{forms_link}}
+
+Should you have any questions or require assistance with the form, please do not hesitate to contact us.
+
+Warm regards,  
+Reservation Team

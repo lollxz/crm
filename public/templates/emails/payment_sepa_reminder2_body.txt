@@ -1,0 +1,18 @@
+Dear {{greeting_name}},
+
+We noticed that payment for your accommodation reservation for the upcoming event is still pending. Please find the attached PDF document with all the details of your initial reservation. We kindly request you review the document for accuracy and proceed to confirm your reservation by completing the payment via bank transfer to the following account:
+
+Bank Details:
+Global Account name: EVENT STAY LTD
+IBAN: DK8489000020649736
+SWIFT code: SXPYDKKK
+Bank name: Banking Circle S.A.
+
+Kindly ensure that you include the invoice number {{invoice}} when making the payment, so we can promptly identify and allocate it.
+
+Upon completing the transfer, please ensure that a confirmation of the payment is sent to us. Once the payment is confirmed, you can expect to receive your voucher and invoice within 24 hours. These documents will serve as confirmation of your reservation and provide further details for your reference.
+
+Please be aware that all reservations are fully refundable and flexible until 30 days before the check-in date. Should you have any concerns or require assistance, do not hesitate to contact us.
+
+Warm Regards,
+Reservation Team

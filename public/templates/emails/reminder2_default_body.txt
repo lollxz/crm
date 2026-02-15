@@ -1,0 +1,17 @@
+Dear {{greeting_name}},
+
+This is a final reminder to confirm your arrival and departure dates in {{city}} for the upcoming conference this {{month}}.
+
+As the conference date approaches, it is crucial to finalize your accommodation arrangements to ensure a seamless experience. Our role is to assist you in booking your accommodation, thereby facilitating a smooth stay during the conference. However, if we do not receive your response promptly, the availability of rooms may become an issue, and we may face limitations in securing suitable arrangements. Therefore, it is imperative that you respond as soon as possible to avoid any potential difficulties and ensure we can support you effectively.
+
+We understand that managing your schedule can be complex, and confirming your itinerary might require time. To accommodate this, our reservation system offers significant flexibility. You can secure a reservation for the standard conference dates with the option for risk-free cancellations up to 30 days before the check-in date, without incurring additional fees. This flexibility is designed to ease the planning process and ensure that you can make changes as needed.
+
+Thus, kindly get back to us so we can send you the hotel booking form and confirm the reservation.
+
+Warm Regards,
+Reservation Team
+
+___
+
+Confidentiality Notice:
+This email message may contain confidential or legally privileged information and is intended only for the use of the intended recipient(s). If you have received this message in error, please notify us immediately and delete it from your system.

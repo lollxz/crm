@@ -1,0 +1,12 @@
+Dear {{greeting_name}},
+
+We are writing to kindly remind you to review the attached PDF document detailing your accommodation reservation for the upcoming event. Please confirm the accuracy of all details and proceed with your payment using the secure link provided below.
+
+Payment Link: {{payments_link}}
+
+Upon successful payment, your voucher and invoice will be sent within 24 hours, confirming your reservation and providing further information for your reference.
+
+Please be aware that all reservations are fully refundable and flexible until 30 days before the check-in date. If you have any questions or specific requests, please do not hesitate to contact us.
+
+Warm Regards,  
+Reservation Team

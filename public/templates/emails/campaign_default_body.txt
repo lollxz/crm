@@ -1,0 +1,17 @@
+Dear {{greeting_name}},
+
+Kindly inform us of your arrival and departure dates in {{city}} to secure the space for your stay this {{month}} for the conference.
+
+Please send us this information at your earliest convenience so that we can ensure a confirmed reservation. This will help us avoid any potential issues with room availability and ensure a smooth and comfortable stay during the conference.
+
+If the itinerary isn't confirmed yet, a flexible reservation will be made for the standard conference dates, which can be canceled without any additional fees up to 30 days before the check-in date. Please note that all reservations are fully refundable and flexible until 30 days before the check-in date.
+
+Thus, kindly get back to us so we can send you the hotel booking form and confirm the reservation.
+
+Warm Regards,
+Reservation Team
+
+___
+
+Confidentiality Notice:
+This email message may contain confidential or legally privileged information and is intended only for the use of the intended recipient(s). If you have received this message in error, please notify us immediately and delete it from your system.

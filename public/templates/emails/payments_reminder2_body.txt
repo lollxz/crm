@@ -1,0 +1,12 @@
+Dear {{greeting_name}},
+
+We noticed that payment for your accommodation reservation for the upcoming event is still pending. Please find the attached PDF document with all the details of your initial reservation. We kindly request you review the document for accuracy and proceed with your payment at your earliest convenience.
+
+Payment Link: {{payments_link}}
+
+Your voucher and invoice will be issued within 24 hours upon successful payment, confirming your reservation and providing additional information.
+
+Please be aware that all reservations are fully refundable and flexible until 30 days before the check-in date. Should you have any concerns or require assistance, do not hesitate to contact us.
+
+Warm Regards,  
+Reservation Team

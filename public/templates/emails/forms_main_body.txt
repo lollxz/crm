@@ -1,0 +1,12 @@
+Dear {{greeting_name}},
+
+Kindly fill out the form to finalize and secure your accommodation for the event.
+
+Room Reservation Form: {{forms_link}}
+
+Please be advised that this reservation is entirely flexible and refundable for any cancellations made up to 30 days before the check-in date. Additionally, the dates specified on the form can be adjusted at any time upon your request, as this reservation offers complete flexibility.
+
+Upon receiving the completed form, you will receive the payment link in your inbox within 24 to 48 working hours. Following receipt of your payment, the invoice and voucher will be sent promptly within 24 hours.
+
+Warm regards,  
+Reservation Team

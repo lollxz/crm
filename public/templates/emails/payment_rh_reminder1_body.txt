@@ -1,0 +1,17 @@
+Dear {{greeting_name}},
+
+We are writing to kindly remind you to review the attached PDF document detailing your accommodation reservation for the upcoming event. Please confirm the accuracy of all details and proceed to confirm your reservation by completing the payment via bank transfer to the following account:
+
+Bank Details:
+Account Name: Emerging Travel
+Swift Code: CITIGB2L
+IBAN: GB38CITI18500817616864
+
+Kindly ensure that you include the invoice number {{invoice}} when making the payment, so we can promptly identify and allocate it.
+
+Upon completing the transfer, please ensure that a confirmation of the payment is sent to us. Once the payment is confirmed, you can expect to receive your voucher and invoice within 24 hours. These documents will serve as confirmation of your reservation and provide further details for your reference.
+
+Please be aware that all reservations are fully refundable and flexible until 30 days before the check-in date. If you have any questions or specific requests, please do not hesitate to contact us.
+
+Warm Regards,
+Reservation Team

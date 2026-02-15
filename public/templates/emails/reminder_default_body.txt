@@ -1,0 +1,17 @@
+Dear {{greeting_name}},
+
+This is a gentle reminder to inform us of your arrival and departure dates in {{city}} for the upcoming conference this {{month}}.
+
+We understand the demands on your time and the intricacies of coordinating schedules. However, we kindly request your prompt attention to the accommodation details for the conference. Your timely response will enable us to secure the most suitable arrangements for your stay.
+
+Recognizing the complexities of managing your schedule, we understand that confirming your itinerary may take time. In this regard, we would like to highlight the flexibility inherent in our reservation system. It is now possible to secure a flexible reservation for the standard dates of the conference. This provides the convenience of risk-free cancellations without incurring any additional fees, up until 30 days before the check-in date.
+
+Thus, kindly get back to us so we can send you the hotel booking form and confirm the reservation.
+
+Warm Regards,
+Reservation Team
+
+___
+
+Confidentiality Notice:
+This email message may contain confidential or legally privileged information and is intended only for the use of the intended recipient(s). If you have received this message in error, please notify us immediately and delete it from your system.

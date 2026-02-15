@@ -1,0 +1,12 @@
+Dear {{greeting_name}},
+
+This is a final reminder regarding the pending payment for your accommodation reservation for the upcoming event. The attached PDF document contains all the pertinent details of your reservation. Please verify the information and proceed with the payment using the secure link below.
+
+Payment Link: {{payments_link}}
+
+Once we receive your payment, your voucher and invoice will be issued within 24 hours, confirming your reservation. Remember, you have the flexibility to modify or cancel your reservation with a full refund up to 30 days before the check-in date.
+
+If you need further assistance or have any specific requests, please do not hesitate to contact us.
+
+Warm Regards,  
+Reservation Team

@@ -1,0 +1,67 @@
+import React from 'react';
+import { Box, Tab, Tabs, Paper } from '@mui/material';
+import UserManagement from './UserManagement';
+import ActivityLogs from './ActivityLogs';
+import CustomerAssignments from './CustomerAssignments';
+
+interface TabPanelProps {
+  children?: React.ReactNode;
+  index: number;
+  value: number;
+}
+
+function TabPanel(props: TabPanelProps) {
+  const { children, value, index, ...other } = props;
+
+  return (
+    <div
+      role="tabpanel"
+      hidden={value !== index}
+      id={`admin-tabpanel-${index}`}
+      aria-labelledby={`admin-tab-${index}`}
+      {...other}
+    >
+      {value === index && (
+        <Box sx={{ p: 3 }}>
+          {children}
+        </Box>
+      )}
+    </div>
+  );
+}
+
+const AdminPanel: React.FC = () => {
+  const [value, setValue] = React.useState(0);
+
+  const handleChange = (event: React.SyntheticEvent, newValue: number) => {
+    setValue(newValue);
+  };
+
+  return (
+    <Box sx={{ width: '100%' }}>
+      <Paper sx={{ width: '100%', mb: 2 }}>
+        <Tabs
+          value={value}
+          onChange={handleChange}
+          aria-label="admin panel tabs"
+        >
+          <Tab label="User Management" />
+          <Tab label="Activity Logs" />
+          <Tab label="Customer Assignments" />
+        </Tabs>
+      </Paper>
+
+      <TabPanel value={value} index={0}>
+        <UserManagement />
+      </TabPanel>
+      <TabPanel value={value} index={1}>
+        <ActivityLogs />
+      </TabPanel>
+      <TabPanel value={value} index={2}>
+        <CustomerAssignments />
+      </TabPanel>
+    </Box>
+  );
+};
+
+export default AdminPanel; 
